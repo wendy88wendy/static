@@ -1,7 +1,7 @@
-baseURL               = "https://wendy8wendy.github.io/static"
+baseURL               = "https://wendy8.com"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
-theme                 = "WebStack-Hugo"
+title                 = "Wendy 网址导航"
+theme                 = "Wendy-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
